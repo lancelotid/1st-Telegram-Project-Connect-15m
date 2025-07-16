@@ -314,7 +314,7 @@ jobs:
             <b>• 🚶 JOURNEY_AT :</b> <code>${{ env.FORMATTED_TIME }}</code>
 
             <b>• 🧩 CULTIVATION_STAGE :</b> <code>${{ env.LEVEL_NAME }}</code>
-            <b>• 👤 IMMORTAL_NAME :</b> beebox603@gmail.com # Updated email format here
+            <b>• 👤 IMMORTAL_NAME :</b> beebox603@gmail.com
 
             <b>🏆 <u>LEADERBOARD (TOP 10 GLOBAL)</u> 🏆</b>
             ━━━━━━━━━━━━━━━━━━━━━━
